@@ -30,7 +30,7 @@ I began tracking this data manually in late January 2020 when it was a small out
 	- [COVID-19 Questions](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks)
 
  - ### Discovering Disease Outbreaks
-This project takes a file of disease related headlines and explores how to map the mentioned locations onto world maps to visualize potential disease outbreak areas; this work stemmed from a project in the upcoming Data Science Bookcamp (Manning, March 2020).
+This project takes a file of disease related headlines and explores how to map the mentioned locations onto world maps to visualize potential disease outbreak areas; this work stemmed from a project in the upcoming Data Science Bookcamp (Manning, March 2020).[README](projects/discovering-disease-outbreaks/README.md).
 
 	_scikit-learn, unidecode, geonamescache, Basemap, Kmeans, DBSCAN_
 
