@@ -7,11 +7,7 @@ and a mix of other intentional or unintentional missing information -- can't be 
 
 In addition, this is an evolving health crisis with wide interest and a lot of fear and uncertainty.
 Rather than model disease outbreak or other epidemiological factors and inadvertently portray these visualizations
-as expert information, this study will look at other factors or questions, such as:
-
-- As the same patterns play out in different countries, how does the speed of reaction change?
-- How does the changing information affect other systems, such as businesses, schools, or online communities?
-
+as expert information, this study will be TEMPORARILY SUSPENDED. Please see the CDC, WHO, or JHU websites for official data reports.
 
 ## Evolution of this project:
 
@@ -36,9 +32,16 @@ as expert information, this study will look at other factors or questions, such 
     
 ### Phase 3: 
 
-   * 2020-03-12 to present
+   * 2020-03-12 to 2020-03-28
    * Data gathering: Daily statistics (confirmed, recovered, deaths) are from the Johns-Hopkins GitHub repository.
    * Data analysis: Tracking the U.S. response in particular as both citizens and government entities decide 
    how to react.
    * Data reporting: Online visualizations built with Tableau Public initially.
-     https://public.tableau.com/profile/js942#!/vizhome/2019nCoVCoronaVirus2019/COVID-19Tracking 
+   
+### Phase 4: 
+
+   * 2020-03-29 to present SUSPENDED
+   * Data gathering: Daily statistics (confirmed, recovered, deaths) are from the Johns-Hopkins GitHub repository.
+   * Data analysis and reporting:
+        Data analysis and reporting is temporarily suspended. This project began when the COVID-19 virus was a very new scientific concern but not a global event. At this time, the virus has far ranging impact and all public data sharing should be done with care. I am choosing to suspend my chart publishing and encourage interested individuals to visit CDC, WHO, or JHS sites with official information on the virus.
+    * Data science and contributions: Kaggle has initiated several data science competitions where individuals can contribute to the global search for contributing factors that could improve the global reponse to the virus. 
