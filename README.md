@@ -23,19 +23,16 @@ These notebooks explore interesting supporting libraries and solutions to data s
 ## Projects
 
  - ### COVID-19 
-I began tracking this data manually in late January 2020 when it was a small outbreak disrupting the Chinese New Year celebrations. The project has changed methods and focus over time and  is still active. 
-	- The world has changed since this project began; see the project [README](projects/covid-19/README.md).
+I began tracking this data manually in late January 2020 when it was a small outbreak disrupting the Chinese New Year celebrations. The world has changed since this project began; see the project [README](projects/covid-19/README.md). Follow-up work is continuing via the Kaggle COVID-19 related challenges. 
 	
-	- Follow-up work is continuing via the Kaggle COVID-19 related challenges. 
-	
-		- [California](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1)
-		- [World](https://www.kaggle.com/c/covid19-global-forecasting-week-2) 
-		- [COVID-19 Questions](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks)
+	- [California](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1)
+	- [World](https://www.kaggle.com/c/covid19-global-forecasting-week-2) 
+	- [COVID-19 Questions](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks)
 
  - ### Discovering Disease Outbreaks
-This project takes a file of disease related headlines and explores how to map the mentioned locations onto world maps to visualize potential disease outbreak areas; this work stemmed from a project in the upcoming Data Science Bookcamp (Manning, March 2020)
+This project takes a file of disease related headlines and explores how to map the mentioned locations onto world maps to visualize potential disease outbreak areas; this work stemmed from a project in the upcoming Data Science Bookcamp (Manning, March 2020).
 
-	_scikit-learn, geonamescache, Basemap, Kmeans, DBSCAN_
+	_scikit-learn, unidecode, geonamescache, Basemap, Kmeans, DBSCAN_
 
  - ### 2018 GDP Forecasting
 Using the World Bank GDP data of 2017 and earlier, predict the 2018 GDP for each country of the world.
